@@ -1,0 +1,96 @@
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\bin\Debug\Program.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\bin\Debug\Program.exe
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\bin\Debug\Program.pdb
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.exe
+c:\users\user\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\Игорь\Desktop\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.exe
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.pdb
+C:\Users\Игорь\Desktop\Program\Program\bin\Debug\Program.exe
+C:\Users\Игорь\Desktop\Program\Program\bin\Debug\Program.pdb
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2012\Projects\Program\Program\obj\Debug\Program.Form3.resources
+D:\Downloads\imagefilteringCODE\Program\Program\bin\Debug\Program.exe.config
+D:\Downloads\imagefilteringCODE\Program\Program\bin\Debug\Program.exe
+D:\Downloads\imagefilteringCODE\Program\Program\bin\Debug\Program.pdb
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.Form1.resources
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.Form2.resources
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.Form3.resources
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.exe
+D:\Downloads\imagefilteringCODE\Program\Program\obj\Debug\Program.pdb
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\bin\Debug\Program.exe.config
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\bin\Debug\Program.exe
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\bin\Debug\Program.pdb
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.DoctorReg.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.EntranceForm.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.ForgotPassword.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.Form2.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.Form3.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.MainMenu.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.PatientCard.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.PatientReg.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.ProgInfo.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.exe
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.pdb
+D:\Учёба\Диплом\imagefilteringCODE\Program\Program\obj\Debug\Program.Form1.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\bin\Debug\Program.exe.config
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\bin\Debug\Program.exe
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\bin\Debug\Program.pdb
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.DoctorReg.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.EntranceForm.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.ForgotPassword.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Form1.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Form2.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Form3.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.MainMenu.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PatientCard.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PatientReg.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.ProgInfo.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.exe
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.pdb
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.BrightGraph.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PrintResult.resources
+D:\Учёба\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PatientList.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\bin\Debug\Program.exe.config
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\bin\Debug\Program.exe
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\bin\Debug\Program.pdb
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.BrightGraph.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.DoctorReg.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.EntranceForm.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.ForgotPassword.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Form1.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Form2.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Form3.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.MainMenu.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PatientCard.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PatientList.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PatientReg.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.PrintResult.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.ProgInfo.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.exe
+D:\Учёба и работа\Диплом\imagefilteringCODE 1\Program\Program\obj\Debug\Program.pdb
